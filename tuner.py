@@ -5,7 +5,7 @@ The minimum and maximum HSV values are saved in a JSON file called config.json.
 
 import os
 import json
-from Tkinter import *
+from tkinter import *
 import numpy as np
 import cv2
 from PIL import Image

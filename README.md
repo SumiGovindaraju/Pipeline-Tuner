@@ -11,7 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 - Clone this repository (`git clone https://github.com/SumiGovindaraju/Pipeline-Tuner.git`)
-- Download and Install [Python 2.7](https://www.python.org/download/releases/2.7/)
+- Download and Install [Python 3.6.5](https://www.python.org/downloads/release/python-365/)
 - Install [PIP](https://pip.pypa.io/en/stable/installing/)
 - Install OpenCV and NumPy (`pip install opencv-python`)
 - Install PIL (`pip install Pillow`)
